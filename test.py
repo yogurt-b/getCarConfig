@@ -1,0 +1,2 @@
+import fake_useragent
+print(fake_useragent.__file__)
